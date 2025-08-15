@@ -1,0 +1,5 @@
+buildozer -v android debug   # بدون init
+# Ensure build layout
+No buildozer.spec found in the current directory. Abandon.
+Error: Process completed with exit code 1.
+0s
